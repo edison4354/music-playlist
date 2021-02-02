@@ -1,1 +1,1 @@
-# music-playlist
+# CS 1.2 Assignment Music Playlist 
