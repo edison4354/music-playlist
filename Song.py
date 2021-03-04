@@ -21,8 +21,8 @@ class Song:
 
 
   # TODO: Create a setter method for the next_song attribute, called set_next_song
-  def set_next_song(self, next_title):
-    self.__next_song = next_title
+  def set_next_song(self, next_song):
+    self.__next_song = next_song
 
 
   # TODO: Using the __str___ dunder method, return a string of the song title.
